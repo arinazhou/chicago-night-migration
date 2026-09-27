@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A5F,100:0F766E&height=220&section=header&text=Chicago%20Night%20Migration&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Geospatial%20data%20pipeline%20%2B%20statistical%20modeling%20for%20acoustic%20bird%20monitoring&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Chicago Night Migration" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,50:BAE6FD,100:7DD3FC&height=220&section=header&text=Chicago%20Night%20Migration&fontSize=46&fontColor=0C4A6E&fontAlignY=36&desc=Geospatial%20data%20pipeline%20%2B%20statistical%20modeling%20for%20acoustic%20bird%20monitoring&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Chicago Night Migration" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=14B8A6&center=true&vCenter=true&width=720&lines=Raw+acoustic+detections+%E2%86%92+model-ready+features;Rasters+%2B+vectors+%E2%86%92+per-site+predictors;92+candidate+models+%E2%86%92+one+defensible+answer" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=0284C7&center=true&vCenter=true&width=720&lines=Raw+acoustic+detections+%E2%86%92+model-ready+features;Rasters+%2B+vectors+%E2%86%92+per-site+predictors;92+candidate+models+%E2%86%92+one+defensible+answer" alt="typing" />
 </p>
 
 <p align="center">
@@ -214,5 +214,5 @@ python modeling/model_selection.py
 Research by **Arina (Jingya) Zhou**, with Shu-Yueh Liao and Benjamin M. Van Doren · Department of Natural Resources & Environmental Sciences, University of Illinois Urbana-Champaign. Field data collection by J'orge Garcia (Windy City Bird Lab) and Madison Chudzik (Duke University). Funded by the Walder Foundation.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:1E3A5F,100:0B1120&height=110&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,50:BAE6FD,100:E0F2FE&height=110&section=footer" width="100%" />
 </p>
