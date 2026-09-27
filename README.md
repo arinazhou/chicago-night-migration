@@ -27,7 +27,7 @@
 
 ---
 
-## TL;DR
+## Intro
 
 Every night during migration, microphones across the Chicago region record thousands of bird flight calls, and an ML detector ([Nighthawk](https://github.com/bmvandoren/Nighthawk)) labels them by species. That leaves a question the raw data can't answer: **why do different parts of the city hear different birds?**
 
