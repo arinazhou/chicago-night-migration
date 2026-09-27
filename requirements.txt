@@ -1,0 +1,10 @@
+geopandas
+rasterio
+rasterstats
+shapely
+pandas
+numpy
+scikit-learn
+statsmodels
+matplotlib
+openpyxl

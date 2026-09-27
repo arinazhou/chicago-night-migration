@@ -1,0 +1,12 @@
+# Raw detections, site coordinates and rasters belong to the lab and are not distributed
+data/
+*.tif
+*.tiff
+*.shp
+*.dbf
+*.shx
+*.xlsx
+**/output/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
